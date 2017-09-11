@@ -8,8 +8,7 @@ This project heavily relies on the work that has already been done by others. Ot
 1. [OpenCV](https://github.com/opencv/opencv "OpenCV by opencv")
 2. [Dlib](https://github.com/davisking/dlib "Dlib by davisking")
 3. [YOLO](https://github.com/pjreddie/darknet "YOLO by pjreddie")
-4. [pyyolo](https://github.com/thomaspark-pkj/pyyolo "pyyolo by thomaspark-pkj")
-5. [object-tracker](https://github.com/bikz05/object-tracker "object-tracker by bikz05")
+4. [object-tracker](https://github.com/bikz05/object-tracker "object-tracker by bikz05")
 
 Repo's do not stand in a particular order of importance.
 Thank you to everyone who (generally) contributes to this project, or has open-sourced their projects to enable us to build this software!
@@ -22,3 +21,6 @@ I'm planning on building a 2nd version of this CNN that combines the power of LS
 ## Usage
 - As soon as this project is somewhat usable, I'll write this part out :) 
 - But generally, simply try to get all the linked dependecies running and you should be able to run my code as well
+
+## What I learned through this
+- Python Wrappers for YOLO are often not well maintained (as well as ROLO) and I will simply use the ´shell_exec´ command to communicate with darknet
