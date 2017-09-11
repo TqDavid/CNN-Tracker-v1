@@ -9,3 +9,4 @@
 
 ### 11/09/2017
 - Added Center/Corner Selection possibility
+- Added /darknet_compile_only for compilation of the darknet binary (this folder contains the modified source code)
