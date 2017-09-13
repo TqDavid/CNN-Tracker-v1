@@ -1,9 +1,10 @@
 # CNN-Tracker-v1
+### This project is not actively maintained and has not been brought to a usable state so far
 Convolutional Neural Network Tracker v1 - Using YOLO and Correlation Tracker to track objects
 
 ## Contributors & Implemented Code from others
 #### / Dependencies
-This project heavily relies on the work that has already been done by others. Other Open-Source Projects that are essential to this project are: 
+This project heavily relies on the work that has already been done by others. Other Open-Source Projects that are essential to this project are:
 
 1. [OpenCV](https://github.com/opencv/opencv "OpenCV by opencv")
 2. [Dlib](https://github.com/davisking/dlib "Dlib by davisking")
@@ -19,7 +20,7 @@ I'm planning on building a 2nd version of this CNN that combines the power of LS
 
 
 ## Usage
-- As soon as this project is somewhat usable, I'll write this part out :) 
+- As soon as this project is somewhat usable, I'll write this part out :)
 - But generally, simply try to get all the linked dependecies running and you should be able to run my code as well
 
 ## What I learned through this
